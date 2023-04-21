@@ -1,0 +1,19 @@
+body {
+  font-family: "roboto";
+}
+
+.priceant {
+  text-decoration: line-through;
+}
+
+.pricenew {
+  font-size: 1.2rem;
+}
+
+.description {
+  height: 5rem;
+}
+
+.cards-img{
+    height: 25rem;
+}
